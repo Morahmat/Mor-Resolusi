@@ -1,0 +1,2 @@
+# Mor-Resolusi
+Repositori resolusi
